@@ -1,11 +1,12 @@
 # Projeto Clima Agora
 
-Aplicativo simples que mostra a previsão do tempo da sua cidade.
+Aplicativo simples que mostra a previsão do tempo de todo o Brasil.
+
 
 ## Equipe
 
+
 - Ana — front-end
-- Bruno — back-end
 
 ## Como rodar
 
