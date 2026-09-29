@@ -6,7 +6,7 @@ Aplicativo simples que mostra a previsão do tempo de todo o Brasil.
 ## Equipe
 
 
-- Ana — front-end
+- Ana — ui designer
 
 ## Como rodar
 
